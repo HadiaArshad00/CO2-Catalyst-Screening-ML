@@ -7,9 +7,6 @@
 ## 🌍 Project Overview
 
 This project leverages **machine learning** to accelerate the discovery of efficient catalysts for **CO₂ electroreduction** — a critical technology for combating climate change. By combining computational chemistry with active learning, we achieve a **98.3% reduction in computational cost** compared to traditional Density Functional Theory (DFT) screening methods.
-
-> **Target Application:** ETH Zurich ESOP (Excellence Scholarship and Opportunity Programme) — Self-Directed Research Project
-
 ---
 
 ## 🌱 Why This Matters
