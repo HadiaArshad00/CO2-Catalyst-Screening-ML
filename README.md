@@ -167,7 +167,8 @@ co2-catalyst-screening/
 
 **Hadia Arshad**
 
-- 🔗 GitHub: [yourusername](https://github.com/yourusername)
+- 🔗 GitHub: HadiaArshad00 
+- https://github.com/HadiaArshad00
 - 📧 Email: [hadiaarshad.pk@outlook.com](mailto:hadiaarshad.pk@outlook.com)
 - 🎓 Aspiring researcher in computational chemistry and sustainable energy
 
